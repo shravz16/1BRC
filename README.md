@@ -26,6 +26,6 @@ Constraints:
     The input file "measurements.txt" may contain a large number of temperature measurements from multiple weather stations.
 
 *
-*
+* measurements.txt - https://1brcshravalogy.s3.us-east-2.amazonaws.com/measurements.txt
 *
 * */
